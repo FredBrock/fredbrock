@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 
 
 <h1 align='center'> Hi! 👋 I'm Fred.</h1>
 
@@ -37,4 +36,4 @@ Here are some ideas to get you started:
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fredbrock&count_private=true&show_icons=true&hide=prs,contribs&title_color=0366d6&icon_color=0366d6)](
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fredbrock&count_private=true&show_icons=true&hide=prs,contribs&title_color=0366d6&icon_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
