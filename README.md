@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 ## ✍️Blog
 
-------
 
 [rwpad.com](https://www.rwpad.com/)
 
@@ -30,7 +29,6 @@ Here are some ideas to get you started:
 
 ## 📈 Github Stats
 
-------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredbrock&layout=compact&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
 
