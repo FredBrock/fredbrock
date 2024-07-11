@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [rwpad.com](https://www.rwpad.com/)
 
-[aifzh.com](https://aifzh.com/)
+~[aifzh.com](https://aifzh.com/)~
 
 [fredbrock.github.io/blog-notes/](https://fredbrock.github.io/blog-notes/)
 
